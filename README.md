@@ -1,19 +1,5 @@
-# Mapa de Rotas
+# Mapa de Ocorrências de Invasão recebidos pelo SIAC 156 - 202
 
-A simple Streamlit app template for you to modify!
+Os dados apresentados são referentes as ocorrências de Invasão do Sistema Integrado de Atendimento ao Cidadão - SIAC 156, na Cidade de Curitiba, PR, disponíveis no portal de dados abertos da cidade: https://www.curitiba.pr.gov.br/dadosabertos/busca/.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
-
-### How to run it on your own machine
-
-1. Install the requirements
-
-   ```
-   $ pip install -r requirements.txt
-   ```
-
-2. Run the app
-
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+https://scaling-space-halibut-4j6gwj5pww95c76g6-8501.app.github.dev/
