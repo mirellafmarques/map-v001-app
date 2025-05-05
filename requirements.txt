@@ -1,6 +1,6 @@
-streamlit
-folium
-seaborn
-matplotlib.pyplot
-geopandas
-numpy
+streamlit==1.24.1
+folium==0.14.0
+seaborn==0.12.2
+matplotlib==3.7.1
+geopandas==0.13.0
+numpy==1.24.3
