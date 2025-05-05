@@ -1,1 +1,6 @@
 streamlit
+folium
+seaborn
+matplotlib.pyplot
+geopandas
+numpy
